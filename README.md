@@ -20,10 +20,10 @@
 > presented the report to the developer team and the CEO. 
 
 3. **INTERACTIVE VISUALIZATION OF CGM DATA** *(Human Computer Interaction)*
-> ![alt text](https://github.com/tabbie-hash/tabbie-hash/blob/main/graph.png)                                                 
+> ![alt text](https://github.com/tabbie-hash/tabbie-hash/blob/main/graph.png, https://github.com/tabbie-hash/tabbie-hash/blob/main/P001S6_All_Sensors_PC.png)                                                 
 > My work at Michigan Medicine involves working of the big data files from the CGMs and developing a **Patient-Physician Education Tool** for helping Type2 Diabetes 
-> patients understand their condition. This tool allows patients to see their glucose levels in real-time along with the affect of food on it and interact with the 
-> visualization and see how their glucose levels became steady by just incorporating some lifestyle changes.  
+> patients enrolled in the research study understand their condition. This tool allows patients to see their glucose levels in real-time along with the affect of food 
+> on it and interact with the visualization and see how their glucose levels became steady by just incorporating some lifestyle changes.  
 
 <!--
 **tabbie-hash/tabbie-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
