@@ -8,6 +8,8 @@
 > people. 
 
 **HIGHLIGHTS OF MY RECENT WORK**
+> DEVELOPING ETL TOOLS AND PIPELINES 
+!(https://github.com/tabbie-hash/tabbie-hash/blob/main/Knime%20workflow.png)
 
 <!--
 **tabbie-hash/tabbie-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
