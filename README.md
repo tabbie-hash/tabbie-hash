@@ -15,7 +15,7 @@
 > the hassle getting access to protected healthcare data. 
 
 2. **PERFORMING USER EXPERIENCE ANALYSIS**
-> ![alt text](https://github.com/tabbie-hash/tabbie-hash/blob/main/app%20analysis.png)
+> ![alt text](https://github.com/tabbie-hash/tabbie-hash/blob/main/app%20analysis.png)                                                                 
 > I'm a **quick learner!** I love to work in areas other than my major. I performed user experience analysis of the Medalynx App for the external stakeholders and 
 > presented the report to the developer team and the CEO. 
 
