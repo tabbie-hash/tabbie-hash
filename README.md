@@ -13,7 +13,7 @@
 My work at Medalynx Inc. involves developing data pre-processing and data integration pipelines on Kinme Application. These files include rows in the mutliples of thousands consisting of data from the healthcare market. The goal of the project is build a standardized global database library for clients and researchers to remove the hassle getting access to protected healthcare data. 
 
 > **PERFORMING USER EXPERIENCE ANALYSIS**
-> 1[alt text](https://github.com/tabbie-hash/tabbie-hash/blob/main/Medalynx%20app.pdf)
+![alt text](https://github.com/tabbie-hash/tabbie-hash/blob/main/Medalynx%20app.pdf)
 
 <!--
 **tabbie-hash/tabbie-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
