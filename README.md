@@ -1,4 +1,4 @@
-# *Hi there, I'm Tabassum!
+# *Hi there, I'm Tabassum!*
 
 **ABOUT**
 > Beginning my journey from working on the **clinical and management** domain of healthcare, I identified that there is a huge influx of data which is yet to be explored 
