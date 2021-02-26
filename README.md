@@ -40,7 +40,7 @@
 > analyzing the patient interview transcripts and developing the qualitative codes, the qualitative analysis was performed using MAQDA application. The work is 
 > incorporated in the main paper of the research study in which I'm a co-author. 
 
-# *For more insights on my courseworks and independent projects please explore my respositories. I have highlighted some of my favourite ones for you!*
+# *For more insights on my courseworks and independent projects please explore my respositories. I have highlighted some of my favourite ones below for your reference!*
 <!--
 **tabbie-hash/tabbie-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
