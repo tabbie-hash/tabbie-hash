@@ -1,10 +1,11 @@
-# TABASSUM NISHA 
-## *DATA ANALYST GRADUATE FROM UNIVERSITY OF MICHIGAN-ANN ARBOR*
+# *H
 
 ## ABOUT
 > Beginning my journey from working on the **clinical and management** domain of healthcare, I identified that there is a huge influx of data which is yet to be explored 
-> effectively. Having basic knowledge about **Applied Statistics and Mathematics**, I got attracted towards the field of **Informatics**. With my **Master's in Health
-> Informatics (Major in Data Science)**, I'm enthusiatic to apply my knowledge and skills in real-time to bringings impacts to the lives of people. 
+> effectively. Having basic knowledge about **Applied Statistics and Mathematics**, I realised all this data lloks like that 1000 pieces puzzle I solved in the 7th 
+> grade. Finding out insights and identifying patterns out of large messy data is the challenge that makes me want get up from bed everyday. With my **Master's in Health
+> Informatics (Major in Data Science)**, I'm enthusiatic to apply my knowledge and skills in real-time to solve those big data problems and bring impacts to the lives of 
+> people. 
 
 ## HIGHLIGHTS OF MY RECENT WORK
 
