@@ -1,11 +1,16 @@
 # *Hi there, I'm Tabassum!*
 
 ## **ABOUT**
-> Beginning my journey from working on the **clinical and management** domain of healthcare, I identified that there is a huge influx of data which is yet to be 
-> explored effectively. Having basic knowledge about **Applied Statistics and Mathematics**, I realised all this data looks like that 1000 pieces puzzle I solved in 
-> the 7th grade. Finding out insights and identifying patterns out of large messy data is the challenge that makes me want get up from bed everyday. With my 
-> **Master's in Health Informatics (Major in Data Science)**, I'm enthusiatic to apply my knowledge and skills in real-time to solve those big data problems and bring 
-> impacts to the lives of people. 
+> Since my advent in the **clinical and management** domain of healthcare, I identified that there is a huge influx of data that is yet to be explored effectively. 
+> Having basic knowledge about **Applied Statistics and Mathematics**, I found all this data looks like the "Ele-Phantastic 1000 pieces puzzle" (multiple elephant 
+> pieces in a Giant Elephant piece) link that I solved in the 7th grade.
+
+> I realized:
+  > Everything can be related to something and that something defines something else which can explain a lot of things -- *Tabassum Nisha* and I am good at that. 
+
+> My insatiable curiosity in identifying patterns and finding insights out of large messy data makes me want to get up from my bed every day. With my **Master's in 
+> Health Informatics (Major in Data Science)**, I'm enthusiastic to apply my knowledge and skills to solve those big data problems and bring impacts to the lives of 
+> people. 
 
 ## **HIGHLIGHTS OF MY RECENT WORK**
 1. **DEVELOPING ETL TOOLS AND PIPELINES** 
@@ -28,6 +33,11 @@
 > patients enrolled in the research study understand their condition. This tool allows patients to see their glucose levels in real-time along with the affect of food 
 > on it and interact with the visualization and see how their glucose levels became steady by just incorporating some lifestyle changes.  
 
+4. **QUALITATIVE DATA ANALYSIS**
+> ![alt text](https://github.com/tabbie-hash/tabbie-hash/blob/main/qual%20analysis.png)                                     
+> In the same research study at Michigan Medicine I worked on not only quantitive data analysis aspect but also on the qualitative data analysis. After carefully 
+> analyzing the patient interview transcripts and developing the qualitative codes, the qualitative analysis was performed using MAQDA application. The work is 
+> incorporated in the main paper of the research study in which I'm a co-author. 
 <!--
 **tabbie-hash/tabbie-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
