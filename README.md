@@ -1,4 +1,8 @@
-### Hi there 👋
+# TABASSUM NISHA
+## *DATA ANALYST GRADUATE FROM UNIVERSITY OF MICHIGAN-ANN ARBOR*
+
+> Beginning my journey from working on the **clinical and management** domain of healthcare, I identified that there is a huge influx of data which is yet not explored 
+> effectively. 
 
 <!--
 **tabbie-hash/tabbie-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
