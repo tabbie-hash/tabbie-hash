@@ -1,13 +1,13 @@
 # *Hi there, I'm Tabassum!*
 
-**ABOUT**
-> Beginning my journey from working on the **clinical and management** domain of healthcare, I identified that there is a huge influx of data which is yet to be explored 
-> effectively. Having basic knowledge about **Applied Statistics and Mathematics**, I realised all this data looks like that 1000 pieces puzzle I solved in the 7th 
-> grade. Finding out insights and identifying patterns out of large messy data is the challenge that makes me want get up from bed everyday. With my **Master's in Health
-> Informatics (Major in Data Science)**, I'm enthusiatic to apply my knowledge and skills in real-time to solve those big data problems and bring impacts to the lives of 
-> people. 
+## **ABOUT**
+> Beginning my journey from working on the **clinical and management** domain of healthcare, I identified that there is a huge influx of data which is yet to be 
+> explored effectively. Having basic knowledge about **Applied Statistics and Mathematics**, I realised all this data looks like that 1000 pieces puzzle I solved in 
+> the 7th grade. Finding out insights and identifying patterns out of large messy data is the challenge that makes me want get up from bed everyday. With my 
+> **Master's in Health Informatics (Major in Data Science)**, I'm enthusiatic to apply my knowledge and skills in real-time to solve those big data problems and bring 
+> impacts to the lives of people. 
 
-**HIGHLIGHTS OF MY RECENT WORK**
+## **HIGHLIGHTS OF MY RECENT WORK**
 1. **DEVELOPING ETL TOOLS AND PIPELINES** 
 > ![alt text](https://github.com/tabbie-hash/tabbie-hash/blob/main/Knime%20workflow.png)
 > My work at Medalynx Inc. involves developing data pre-processing and data integration pipelines on Kinme Application. These files include rows in the mutliples of
