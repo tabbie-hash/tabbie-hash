@@ -13,7 +13,7 @@
 > Health Informatics (Major in Data Science)**, I'm enthusiastic to apply my knowledge and skills to solve those big data problems and bring impacts to the lives of 
 > people. 
 
-## **HIGHLIGHTS OF MY WORK**
+## **HIGHLIGHTS OF MY EARLY CAREER WORK**
 1. **DEVELOPING ETL TOOLS AND PIPELINES** 
 > ![alt text](https://github.com/tabbie-hash/tabbie-hash/blob/main/Knime%20workflow.png)
 > My work at Medalynx Inc. involves developing data pre-processing and data integration pipelines on Kinme Application. These files include rows in the mutliples of
