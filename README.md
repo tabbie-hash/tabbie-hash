@@ -1,20 +1,14 @@
 # *Hi there, I'm Tabassum!*
 
 ## **ABOUT**
-> Since my advent in the **clinical and management** domain of healthcare, I identified that there is a huge influx of data that is yet to be explored effectively. 
-> Having basic knowledge about **Applied Statistics and Mathematics**, I found all this data looks like the "Ele-Phantastic 1000 pieces puzzle" [multiple elephant 
-> pieces in a Giant Elephant piece](https://www.amazon.com/Ele-Phantastic-1000-pc-Jigsaw-Puzzle/dp/B004HK6BL6/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=B004HK6BL6&pd_rd_r=9761960c-0f86-11e9-81fe-4da2503c3c0e&pd_rd_w=mSuow&pd_rd_wg=Hl2sh&pf_rd_p=18bb0b78-4200-49b9-ac91-f141d61a1780&pf_rd_r=WAD926SEW7SVXNMCV35X&psc=1&refRID=WAD926SEW7SVXNMCV35X&linkCode=sl1&tag=mybuclisjou-20&linkId=5a0bdf477cfe6dc46b4ecc22b793e6cb&language=en_US) that I solved in the 7th grade.
-> 
-> I realized:
-  > **Everything can be related to something and that something defines something else which can explain a lot of things** -- *Tabassum Nisha* **and I am good at 
-  > that.** 
-> 
-> My insatiable curiosity in identifying patterns and finding insights out of large messy data makes me want to get up from my bed every day. With my **Master's in 
-> Health Informatics (Major in Data Science)**, I'm enthusiastic to apply my knowledge and skills to solve those big data problems and bring impacts to the lives of 
-> people. 
+In my current role as a Data Scientist at Vizient Inc., I have successfully built machine-learning models utilizing Real-World EHR data. Notably, I developed a Physician Specialty Mapping model using XGBoost with precision and recall metrics of 0.85 and 0.83, respectively. Additionally, I built a Payer Plans Mapping model using BERT with precision and recall scores of 0.80 and 0.78. I also built an Automated Data Mining and Quality Assessment product prototype within 3 months, improving data quality assurance process time by 98% and significantly enhancing client engagements. I have also collaborated with cross-functional teams to research state-of-the-art LLMs (RAG pipeline applications) for advanced analytics products. These accomplishments showcase my ability to work with complex real-world data and deliver impactful solutions.
+
+Furthermore, my experience as a Data Scientist at Michigan Medicine involved developing an algorithm for generating individualized Blood Glucose Level patterns using CGM data and conducting patient cohort analysis for the Diabetes Clinical Research Program. I co-authored a publication titled "Continuous Glucose Monitoring with Low-Carbohydrate Nutritional Coaching Improves Type 2 Diabetes Control: A Randomized Quality Improvement Program Evaluation" in JMIR Journal and my recognition through the 2020 IHPI/HSR Summer Student Fellowship and Internship Program Award at the University of Michigan. These experiences have enhanced my proficiency in working with diverse real-world clinical data and extracting valuable insights using Precision Health and Evidence-based Medicine concepts. I am well-versed in programming languages such as Python and R and have expertise in data visualization tools like Tableau and PowerBI. My proficiency in data science libraries such as Scikit-learn, PyTorch, and TensorFlow enables me to apply advanced machine learning techniques, including NLP and PCA, to drive innovative solutions.
+
+Additionally, my skills in data mining, predictive analytics, and statistics further strengthen my ability to analyze real-world big data. 
 
 ## **HIGHLIGHTS OF MY EARLY CAREER WORK**
-1. **DEVELOPING ETL TOOLS AND PIPELINES** 
+1. **DEVELOPING ETL PIPELINES AND DEFINING MEDICAL DATA MODELS** 
 > ![alt text](https://github.com/tabbie-hash/tabbie-hash/blob/main/Knime%20workflow.png)
 > My work at Medalynx Inc. involves developing data pre-processing and data integration pipelines on Kinme Application. These files include rows in the mutliples of
 > thousands consisting of data from the healthcare market. The goal of the project is build a standardized global database library for clients and researchers to remove 
@@ -25,8 +19,8 @@
 > I'm a **quick learner!** I love to work in areas other than my major. I performed user experience analysis of the Medalynx Web App for the external stakeholders and 
 > presented the report to the developer team and the CEO. 
 
-3. **INTERACTIVE VISUALIZATION OF CGM DATA** *(Human Computer Interaction)*
-   #### GLUCOSE LEVELS VISUALIZATION
+3. **ALGORITHM TO ANALYZE CGM DATA** *(Human Computer Interaction)*
+   #### PERSONALISED GLUCOSE LEVELS VISUALIZATION
 > ![alt text](https://github.com/tabbie-hash/tabbie-hash/blob/main/graph.png)       
    #### NUMBER OF PEAKS AND CRASHES IN THE GLUCOSE LEVELS THROUGHOUT THE RESEARCH STUDY                        
 > ![alt text](https://github.com/tabbie-hash/tabbie-hash/blob/main/P001S6_All_Sensors_PC.png)                                                                                      
